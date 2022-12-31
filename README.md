@@ -65,7 +65,9 @@ The fear of being around people caused by the Covid crisis created the opportuni
 
 ## Some of the proposed strategies based on Dataset 2
 
-### Opportunity for Cross - Selling 
+### Opportunities for a Large Kiosk in Central Location
+
+Most of the sales in kiosks found in central locations had most of their sales on working early hours, probably exactly before people went to work. The proposal was to include packaged coffee and puff pastry products to replace the visit a greek would probably make in a coffee shop for his breakfast and coffee before heading to work. 
 
 
 
