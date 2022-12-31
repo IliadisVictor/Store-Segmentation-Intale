@@ -20,8 +20,39 @@ The second dataset contains information about the sales of each product for a st
 | MAT    | 2021      | February       | 5114    | 31         | 13       | 27.1    |
 | MAT    | 2021      | November       | 5400    | 41         | 2        | 2       |
 
-
-
-
 The data can be found in the folder Data. It should be mentioned that there are three more sheets in the excel file. The category sheet provides the name of the category for category IDs seen in dataset 1 and 2. The store's sheet provides geographical information for each store, as well as its type, small kiosk or mini-market. The period sheet explains the months included in the two periods coded as MAT and MATYA seen only in dataset 1. 
 
+## Segments - Clustering
+For each dataset, clustering was conducted with the help of Pandas and Rapid Miner. During the procedure Kmodes, Kmeans and KPrototypes was tested after doing the necessary preprocessing for each. 
+
+
+
+### Clustering Dataset 1 
+Clustering Basis using K-Prototypes 
+
+1. Store Type – String ( Mini-Market , Kiosk)
+2. Location - String 6 Geographical Locations
+3. 4 Variables for 4 Seasons – Percentage of yearly sales that occurred on that season .
+4. AVG Retail Price – Total revenue divided by total items sold
+5. AVG Monthly Revenue – Grouped Sales Revenue by Month and calculated the average.
+6. AVG Items Sold - Grouped Items sold by Month and calculated the average.
+7. Categories Variety – Amount of different categories sold .
+8. Categories Concentration – How many categories amount for 80% of revenue.
+
+
+
+
+### Clustering Dataset 2
+
+Clustering Basis using K-Means( Elbow method to decide on amount of clusters)
+
+1. Average Daily Transactions
+2. Average Revenue/Transactions
+3. Average No of Categories per Transaction
+4. Average Items per Transaction
+5. Weekend Revenue (as percentage of Total Revenue) – 2 variables, one for weekdays and one for weekends
+6. Off-Peak (7:00-23:00) Revenue (as Percentage of Total Revenue) – 2 variables, one for peak and one for off-peak hours
+
+## Strategies
+
+For the strategies and analysis conducted on the produced clusters for each dataset, please look the uploaded report. 
