@@ -53,6 +53,20 @@ Clustering Basis using K-Means( Elbow method to decide on amount of clusters)
 5. Weekend Revenue (as percentage of Total Revenue) – 2 variables, one for weekdays and one for weekends
 6. Off-Peak (7:00-23:00) Revenue (as Percentage of Total Revenue) – 2 variables, one for peak and one for off-peak hours
 
-## Strategies
+## Some of the proposed strategies based on Dataset 1
 
-For the strategies and analysis conducted on the produced clusters for each dataset, please look the uploaded report. 
+### Opportunity for Cross - Selling 
+
+A rather large percentage of the stores especially the ones found in the more rural parts of Greece avoid selling newspapers and tickets. These specific products have a miniscule profit margin. As a result many owners have stopped selling them, ignoring the opportunity to establish themselves, for say, as the spot to buy tickets in the area, profiting from the cross selling that will surely happen when customers flock to the store. 
+
+### The opportunities given by Covid to mini-markets
+
+The fear of being around people caused by the Covid crisis created the opportunity for mini-markets to be more competitive against supermarkets. A positive correlation was found between the number of different categories a mini-market offers and its total revenue. The fear of contracting covid drove customers to smaller mini-markets in order to fulfil their needs without being in danger. The proposal was for mini-markets to ask their suppliers for a larger breadth of categories, in an attempt to claim some of the purchases previously made in larger vendors, like cleaning products. 
+
+## Some of the proposed strategies based on Dataset 2
+
+### Opportunity for Cross - Selling 
+
+
+
+**For the full report on the proposed strategies and the technical appendix please see the uploaded pdf** 
